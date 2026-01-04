@@ -1,4 +1,4 @@
-# Chaoxing-Live-Enhancer
+# Xuexitong-Live-Anti-Pause
 
 ## 📖 项目简介
 
